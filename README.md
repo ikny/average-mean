@@ -12,6 +12,7 @@ this is a change in readme --(  )--
 and ANOTHER :O
 
 
-and anotheeeeeer theeeereeee
+and anotheeeeeer theeeereeeee
 ```
 this is a conflict line of text
+demo git pull conflict, rebase or merge
