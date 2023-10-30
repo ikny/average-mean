@@ -3,11 +3,11 @@ CLI python script computing mean of its arguments.
 
 github repo: https://github.com/ikny/average-mean
 ```
-			      /\
-			     <xx>
+						      /\
+						     <xx>
 this is a change in readme --(  )--
-			      ||
-			      LL
+			    			  ||
+			      			  LL
 
 and ANOTHER :O
 
