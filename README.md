@@ -18,3 +18,5 @@ this is a conflict line of text
 demo git pull conflict, rebase or merge
 
 this is a new line, created to check non-conflict pull rebase
+
+this is a second new line, created to try non-conflict pull rebase
