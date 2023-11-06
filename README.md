@@ -16,3 +16,5 @@ and anotheeeeeer theeeereeeee
 ```
 this is a conflict line of text
 demo git pull conflict, rebase or merge
+
+this is a new line, created to check non-conflict pull rebase
